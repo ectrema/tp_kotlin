@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922978921562",
+    "project_id": "tplivre-5fb05",
+    "storage_bucket": "tplivre-5fb05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922978921562:android:774a66993dc5f8ee583c63",
+        "android_client_info": {
+          "package_name": "com.example.tp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922978921562-mu50164r4vguhqta1hl6pipnmdb5eumd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk-fBCMK0fYGHtOWUfEM8-D7YcTY6lldM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922978921562-mu50164r4vguhqta1hl6pipnmdb5eumd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
